@@ -6,7 +6,7 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=shermaes&style=flat-square&color=blue" alt=""/>
-    Hi there welcome to my profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Hi there, welcome to my profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </div>
 
 I am a full stack developer from Venezuela. I am a hands-on learner, that´s why I prefer learning new technologies through development.
