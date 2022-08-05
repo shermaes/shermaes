@@ -4,11 +4,12 @@
     <img src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611afdbd97077a2ef7ce8dc54f21ff40ba10ef22625&rid=giphy.gif&ct=g" width="400"/>   
 </div>
 
-<div>
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=shermaes&style=flat-square&color=blue" alt=""/>
+    ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </div>
 
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
 
 ---
 <div>
