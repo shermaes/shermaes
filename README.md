@@ -7,7 +7,7 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-shermaes&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shermaes&theme=nightowl)](https://git.io/streak-stats)
 <!--
 **shermaes/shermaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
