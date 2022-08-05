@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+    <img src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611afdbd97077a2ef7ce8dc54f21ff40ba10ef22625&rid=giphy.gif&ct=g" width="100"/>
 </div>
 <!--
 **shermaes/shermaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
