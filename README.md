@@ -3,6 +3,11 @@
 <div id="header" align="center">
     <img src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611afdbd97077a2ef7ce8dc54f21ff40ba10ef22625&rid=giphy.gif&ct=g" width="400"/>
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-shermaes&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--
 **shermaes/shermaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
